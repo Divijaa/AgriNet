@@ -1,5 +1,9 @@
 # AgriNet
 
 run the following commands in order to run the project locally
-npm install
+<br>
+<br>
+npm install 
+<br>
+<br>
 node server.js
